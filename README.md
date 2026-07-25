@@ -454,7 +454,7 @@ NexaTech_Order_to_Cash_Analytics
 ## Clone Repository
 
 ```bash
-git clone https://github.com/anusshkaydv/NexaTech_Order_to_Cash_Analytics.git
+git clone https://github.com/anusshkaydv/NexaTech-Order-to-Cash-Analytics.git
 ```
 
 ---
